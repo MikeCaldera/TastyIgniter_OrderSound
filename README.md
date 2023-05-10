@@ -1,4 +1,12 @@
 # TastyIgniter_OrderSound
+UPDATED MAY 9th 2023
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+All sounds are working properly. I also added stock quote like flashing of incoming alert status. Honestly, it was very time consuming, and my logic took many many coffees and time. 
+You can forget this raw and unfiltered code now becuase so much has changed along with mutiple files. Also updating using ajax callbacks and had the adjust the ajax 100 system side seconds down to 5 seconds. 
+It really is a game changer as a former stock trader and developer this was a must. Cellphone, tablet, TV sets, it just works. I may eventually release this once I'm done with 2FA for logins. 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Creates a wake up sound when an order comes in
 
 Before we begin please do a backup.  
